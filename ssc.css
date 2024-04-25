@@ -1,0 +1,159 @@
+body{
+margin: 0;
+    font-family: "Roboto", sans-serif;
+    background-color: #331e42;
+}
+.korobka{
+    height: 99vh;
+    margin: 15px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero{
+    background-color: #331e42;
+    display: flex;
+    color: #B4A5A5;
+    height: 99vh;
+}
+h1{
+    font-size: 100px;
+    margin: 15px 0 15px 0;
+}
+h2{
+    font-size: 30px;
+    margin: 0;
+}
+img{
+    z-index: 3;
+    width: 60%;
+}
+.krug{
+    z-index: 1;
+    top: 100px;
+    left: calc(50% + 50px);
+    position: absolute;
+    width: 900px;
+    height: 900px;
+    background: rgb(60,65,92);
+    background: linear-gradient(90deg, rgba(60,65,92,1) 0%, rgba(51,30,66,1) 81%);   
+    border-radius: 100%;   
+}
+.prizrak{
+    width: 80px;
+    position: absolute;
+}
+.top200{
+    top: 200px;
+}
+.top300{
+    top: 300px;
+}
+.top400{
+    top: 400px;
+}
+.top500{
+    top: 500px;
+}
+.top600{
+    top: 600px;
+}
+.navbar{
+    margin: 20px 100px;
+    background-color: #331e42;
+    border: 1px solid black;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+    height: 80px;
+}
+.logo{
+    font-size: 30px;
+    margin: 0 50px 0 50px;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 0 0 50px;
+body{
+margin: 0;
+    font-family: "Roboto", sans-serif;
+    background-color: #331e42;
+}
+.korobka{
+    height: 99vh;
+    margin: 15px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero{
+    background-color: #331e42;
+    display: flex;
+    color: #B4A5A5;
+    height: 99vh;
+}
+h1{
+    font-size: 100px;
+    margin: 15px 0 15px 0;
+}
+h2{
+    font-size: 30px;
+    margin: 0;
+}
+img{
+    z-index: 3;
+    width: 60%;
+}
+.krug{
+    z-index: 1;
+    top: 100px;
+    left: calc(50% + 50px);
+    position: absolute;
+    width: 900px;
+    height: 900px;
+    background: rgb(60,65,92);
+    background: linear-gradient(90deg, rgba(60,65,92,1) 0%, rgba(51,30,66,1) 81%);   
+    border-radius: 100%;   
+}
+.prizrak{
+    width: 80px;
+    position: absolute;
+}
+.top200{
+    top: 200px;
+}
+.top300{
+    top: 300px;
+}
+.top400{
+    top: 400px;
+}
+.top500{
+    top: 500px;
+}
+.top600{
+    top: 600px;
+}
+.navbar{
+    margin: 20px 100px;
+    background-color: #331e42;
+    border: 1px solid black;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+    height: 80px;
+}
+.logo{
+    font-size: 30px;
+    margin: 0 50px 0 50px;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 0 0 50px;
+}
